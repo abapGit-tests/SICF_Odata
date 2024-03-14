@@ -1,2 +1,3 @@
-# Template
-Template for abapGit CI Tests
+# SICF_Odata
+
+Service with lower-case alternative name
